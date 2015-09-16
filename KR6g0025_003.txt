@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:28.569454
+#+DATE: 2015-08-30 20:04:31.331726
 #+TITLE: 四童子三昧經
 #+PROPERTY: CBETA_ID T12n0379
 #+PROPERTY: ID KR6g0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 379
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0025_T_000-0928c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0025_T_003-0939c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《四童子三昧經》卷下¶
+《四童子三昧經》卷下¶
 ¶
 隋北印度健陀羅國¶
 三藏闍那崛多譯¶
@@ -547,8 +546,7 @@
 」¶
 
 爾時，八百千億眾生得聞偈已，此偈所說三¶
-世無礙，是諸法分成百千種，已至耳邊清淨¶
-微妙。聞是聲已，從於阿鼻脂大地獄捨地獄¶
+世無礙，是諸法分成百千種，已至耳邊清淨微妙。聞是聲已，從於阿鼻脂大地獄捨地獄¶
 身，即生他化自在天宮。爾時，世尊住梵天宮，¶
 復說此偈言：¶
 
