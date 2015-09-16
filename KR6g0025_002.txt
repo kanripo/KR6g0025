@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:28.537776
+#+DATE: 2015-08-30 20:04:30.994029
 #+TITLE: 四童子三昧經
 #+PROPERTY: CBETA_ID T12n0379
 #+PROPERTY: ID KR6g0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 379
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6g0025_T_000-0928c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0025_T_002-0934c> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《四童子三昧經》卷中¶
+《四童子三昧經》卷中¶
 ¶
 隋北印度健陀羅國¶
 三藏闍那崛多譯¶
@@ -349,8 +348,7 @@
 時，得無量億數諸天所共莊嚴轉法輪座，九¶
 者、欲現大神通時，過出一切諸世間道，為¶
 得如來無上顯現最大神通師子高座，十者、¶
-欲現入於大涅槃時，得彼多陀阿伽度、阿¶
-羅訶、三藐三佛陀，令諸天、龍、夜叉、犍闥婆、阿¶
+欲現入於大涅槃時，得彼多陀阿伽度、阿羅訶、三藐三佛陀，令諸天、龍、夜叉、犍闥婆、阿¶
 修羅、迦樓羅、摩睺羅伽、人非人等心生歡喜，¶
 得清淨信，最後寂滅一切諸行，住金剛三昧
 <pb:KR6g0025_T_002-0937c>¶
